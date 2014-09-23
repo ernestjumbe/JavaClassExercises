@@ -1,4 +1,4 @@
-/* Author: Ernest Jumbe
+/* Authors: Ernest Jumbe, Zach Khadudu
  * Hand in 2
  * Creative Exercise 1.2.29
  * A program that reuturns the 
